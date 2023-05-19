@@ -1,0 +1,22 @@
+{
+  "name": "1-natours",
+  "version": "1.0.0",
+  "description": "Landing page for natours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chernnovaa/LearningProject-Natours.git"
+  },
+  "author": "Kate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chernnovaa/LearningProject-Natours/issues"
+  },
+  "homepage": "https://github.com/chernnovaa/LearningProject-Natours#readme",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
